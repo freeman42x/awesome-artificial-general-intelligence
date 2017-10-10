@@ -15,12 +15,14 @@ Books:
 Instant communication chat channels:
 * https://gitter.im/artificial-general-intelligence/Lobby
 
-Projects:
+Organizations / Projects:
 * OpenAI https://openai.com/
 * Neuralink - developing ultra high bandwidth brain-machine interfaces to connect humans and computers https://www.neuralink.com/
 * DeepMind https://deepmind.com/
 * OpenCog http://opencog.org/
 * Open-NARS - open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system https://github.com/opennars/opennars
+* BasicAI - mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all http://www.basicai.org/mission.html
+* ProjectAGI - mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community https://agi.io/about/
 * Numenta - Home of the Hierarchical Temporal Memory Community:
     * https://numenta.org/
     * https://github.com/numenta/nupic
