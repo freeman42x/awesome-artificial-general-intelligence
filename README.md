@@ -12,8 +12,15 @@ Books:
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 * [D. R. Hofstadter - Gödel, Escher, Bach An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 
+Podcasts:
+* https://concerning.ai/
+
+Online Courses:
+* https://agi.mit.edu
+
 Instant communication chat channels:
 * https://gitter.im/artificial-general-intelligence/Lobby
+* ##AGI IRC channel on freenode
 
 Organizations / Projects:
 * OpenAI https://openai.com/
