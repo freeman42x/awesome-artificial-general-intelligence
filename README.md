@@ -11,6 +11,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Podcasts](#podcasts)
 * [Online courses](#online-courses)
 * [Organizations / Projects](#organizations--projects)
+* [Forums / News](#forums--news)
 * [Competitions](#competitions)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
@@ -57,6 +58,11 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
   * [Website](https://numenta.org/)
   * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
+
+## Forums / News
+* [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
+* [Reddit AGI](https://www.reddit.com/r/agi/)
+* [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
 
 ## Competitions
 * [General AI Challenge by GoodAI](https://www.general-ai-challenge.org/)
