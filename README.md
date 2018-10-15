@@ -1,4 +1,4 @@
-# Awesome resources about Artificial General Intelligence [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome resources about Artificial General Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Artificial general intelligence (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
 
@@ -10,7 +10,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Books](#books)
 * [Podcasts](#podcasts)
 * [Online courses](#online-courses)
-* [Organizations / Projects](#organizations-/-projects)
+* [Organizations / Projects](#organizations--projects)
 * [Competitions](#competitions)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
@@ -46,16 +46,16 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 ## Organizations / Projects
 * [OpenAI](https://openai.com/)
-* [Neuralink](https://www.neuralink.com/) - developing ultra high bandwidth brain-machine interfaces to connect humans and computers
+* [Neuralink](https://www.neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
 * [DeepMind](https://deepmind.com/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
 * [OpenCog](http://opencog.org/)
-* [Open-NARS](https://github.com/opennars/opennars) - open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system
-* [BasicAI](http://www.basicai.org/mission.html) - mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all
-* [ProjectAGI](https://agi.io/about/) - mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community
+* [Open-NARS](https://github.com/opennars/opennars) - Open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system.
+* [BasicAI](https://twitter.com/BasicAIResearch) - Mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all.
+* [ProjectAGI](https://agi.io/about/) - Mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community.
 * Numenta - home of the Hierarchical Temporal Memory community:
-    * [Website](https://numenta.org/)
-    * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
+  * [Website](https://numenta.org/)
+  * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
 
 ## Competitions
@@ -76,3 +76,13 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 ## More resources
 * [Linas Vepstas AGI resources](https://linas.org/agi.html)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Răzvan Flavius Panda has waived all copyright and related or neighboring rights to this work.
