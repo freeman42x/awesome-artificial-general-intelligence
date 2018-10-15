@@ -4,7 +4,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 
 ## Contents
 
-* [Wikipedia](#Wikipedia)
+* [Wikipedia](#wikipedia)
 * [Instant communication chat channels](#Instant-communication-chat-channels)
 * [Wait But Why - Artificial Intelligence Revolution](#Wait-But-Why---Artificial-Intelligence-Revolution)
 * [Books](#Books)
