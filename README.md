@@ -26,9 +26,9 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Gitter Artificial General Intelligence channel](https://gitter.im/artificial-general-intelligence/Lobby)
 * [##AGI IRC channel on freenode](https://webchat.freenode.net/?channels=%23%23agi)
 
-## Wait But Why - Artificial Intelligence Revolution
-* [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
-* [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+## Articles
+* Wait But Why - Artificial Intelligence Revolution [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
+* [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
 
 ## Books
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
