@@ -16,7 +16,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
 * [More resources](#more-resources)
-
+* [Experts on Twitter](#experts-on-twitter)
 
 ## Wikipedia
 * [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
@@ -29,16 +29,21 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 ## Articles
 * Wait But Why - Artificial Intelligence Revolution [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 * [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
-
+* [The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
+* [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
 ## Books
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 * [On Intelligence](https://www.amazon.com/gp/product/B003J4VE5Y/)
 * [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.amazon.com/gp/product/0743276647)
 * [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/)
 * [D. R. Hofstadter - Gödel, Escher, Bach An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
-
+* [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
+* [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/1501299387)
+* [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839/)
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
+* [Lex Fridman](https://lexfridman.com/ai/)
+* [TWIMLAI](https://twimlai.com/)
 
 ## Online courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
@@ -74,11 +79,19 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [I, Robot](http://www.imdb.com/title/tt0343818/)
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
+* [Upgrade](https://www.imdb.com/title/tt6499752/)
 
 ## TV Shows
 
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
+
+## Experts on Twitter
+> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
+* [@tegmark](https://twitter.com/tegmark)
+* [@FHIOxford](https://twitter.com/FHIOxford)
+* [@demishassabis](https://twitter.com/demishassabis)
+* [@lexfridman](https://twitter.com/lexfridman)
 
 ## More resources
 * [Linas Vepstas AGI resources](https://linas.org/agi.html)
