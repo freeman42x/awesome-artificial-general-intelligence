@@ -12,11 +12,11 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Online courses](#online-courses)
 * [Organizations / Projects](#organizations--projects)
 * [Forums / News](#forums--news)
+* [Experts on Twitter](#experts-on-twitter)
 * [Competitions](#competitions)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
 * [More resources](#more-resources)
-* [Experts on Twitter](#experts-on-twitter)
 
 ## Wikipedia
 * [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
@@ -29,7 +29,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 ## Articles
 * Wait But Why - Artificial Intelligence Revolution [Part 1](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), [Part 2](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 * [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
-* [The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
+* [Superintelligence - The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
 * [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
 
 ## Books
@@ -47,7 +47,6 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/)
-* [TWIMLAI](https://twimlai.com/)
 
 ## Online courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
@@ -73,6 +72,12 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Reddit AGI](https://www.reddit.com/r/agi/)
 * [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
 
+## Experts on Twitter
+* [Max Tegmark @tegmark](https://twitter.com/tegmark)
+* [Future of Humanity Institute @FHIOxford](https://twitter.com/FHIOxford)
+* [Demis Hassabis @demishassabis](https://twitter.com/demishassabis)
+* [Lex Fridman @lexfridman](https://twitter.com/lexfridman)
+
 ## Competitions
 * [General AI Challenge by GoodAI](https://www.general-ai-challenge.org/)
 
@@ -89,13 +94,6 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
-
-## Experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
-* [@tegmark](https://twitter.com/tegmark)
-* [@FHIOxford](https://twitter.com/FHIOxford)
-* [@demishassabis](https://twitter.com/demishassabis)
-* [@lexfridman](https://twitter.com/lexfridman)
 
 ## More resources
 * [Linas Vepstas AGI resources](https://linas.org/agi.html)
