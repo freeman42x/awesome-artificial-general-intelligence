@@ -31,15 +31,19 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
 * [The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
 * [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
+
 ## Books
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 * [On Intelligence](https://www.amazon.com/gp/product/B003J4VE5Y/)
+* [The Society of Mind](https://www.amazon.com/Society-Mind-Marvin-Minsky/dp/0671657135/)
+* [The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://www.amazon.com/Age-Spiritual-Machines-Computers-Intelligence/dp/0140282025/)
 * [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.amazon.com/gp/product/0743276647)
-* [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/)
-* [D. R. Hofstadter - Gödel, Escher, Bach An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 * [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742)
 * [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/1501299387)
 * [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839/)
+* [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
+* [Gödel, Escher, Bach An Eternal Golden Braid by D. R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/)
