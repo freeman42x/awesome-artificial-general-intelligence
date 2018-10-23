@@ -4,7 +4,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 
 ## Contents
 
-* [Wikipedia](#wikipedia)
+* [General Introductions](#general-introductions)
 * [Instant communication chat channels](#instant-communication-chat-channels)
 * [Articles](#articles)
 * [Books](#books)
@@ -17,11 +17,16 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Competitions](#competitions)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
+* [Education Plans](#education-plans)
 * [More resources](#more-resources)
 
-## Wikipedia
-* [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
-* [History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+## General Introductions
+* [Wikipedia - Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
+* [Wikipedia - History of Artificial Intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+* [Scholarpedia - Artificial General Intelligence](http://www.scholarpedia.org/article/Artificial_General_Intelligence)
+* [Artificial General Intelligence: Concept, State of the Art and Future Prospects, by Ben Goertzel](https://content.sciendo.com/view/journals/jagi/5/1/article-p1.xml)
+* [A gentle introduction to AGi by Pei Wang](https://sites.google.com/site/narswang/home/agi-introduction)
+* [Mapping the Landscape of Human-Level Artificial General Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2322)
 
 ## Instant communication chat channels
 * [Gitter Artificial General Intelligence channel](https://gitter.im/artificial-general-intelligence/Lobby)
@@ -43,6 +48,10 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/1501299387)
 * [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839/)
 * [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
+* [Artificial General Intelligence (Cognitive Technologies)](https://www.amazon.co.uk/Artificial-General-Intelligence-Cognitive-Technologies/dp/354023733X)
+* [Advances in Artificial General Intelligence: Concepts, Architectures and Algorithms (Frontiers in Artificial Intelligence and Applications) ](https://www.amazon.com/Advances-Artificial-General-Intelligence-Architectures/dp/1586037587)
+* [Theoretical Foundations of Artificial General Intelligence](https://www.amazon.com/Theoretical-Foundations-Artificial-General-Intelligence-ebook/dp/B00HWUWVY4)
+* [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395)
 * [Gödel, Escher, Bach An Eternal Golden Braid by D. R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 
 ## Scientific Papers
@@ -53,6 +62,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [A Cyber Science Based Ontology for Artificial General Intelligence Containment](https://arxiv.org/abs/1801.09317)
 * [Self-Regulating Artificial General Intelligence](https://arxiv.org/abs/1711.04309)
 * [Building Safer AGI by introducing Artificial Stupidity](https://arxiv.org/abs/1808.03644)
+* [Journal of Artificial General Intelligence](https://content.sciendo.com/view/journals/jagi/jagi-overview.xml)
 
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
@@ -76,11 +86,17 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
   * [Website](https://numenta.org/)
   * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
+* [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
 
-## Forums / News
+## Forums / News / Social
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
 * [Reddit AGI](https://www.reddit.com/r/agi/)
 * [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
+* [Facebook AGI Group](https://www.facebook.com/groups/propBitDev/)
+* [Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
+* [Facebook Strong Artificial Intelligence Group](https://www.facebook.com/groups/strongartificialintelligence/)
+* [LinkedIn AGI Group](https://www.linkedin.com/groups/1084997/)
+* [Google AGI Group](https://groups.google.com/forum/#!forum/artificial-general-intelligence)
 
 ## Experts on Twitter
 * [Max Tegmark @tegmark](https://twitter.com/tegmark)
@@ -105,8 +121,14 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
 
+## Education Plans
+* [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~wangp/Writing/AGI-Curriculum.html)
+* [AGI Curriculum](http://goertzel.org/agi-curriculum/)
+* [Marcus' AI Recommendation Page](http://www.hutter1.net/ai/introref.htm)
+
 ## More resources
-* [Linas Vepstas AGI resources](https://linas.org/agi.html)
+* [AGI Society](http://www.agi-society.org/resources/)
+* [Linas Vepstas](https://linas.org/agi.html)
 
 ## Contribute
 
