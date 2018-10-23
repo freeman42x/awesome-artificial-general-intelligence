@@ -8,6 +8,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Instant communication chat channels](#instant-communication-chat-channels)
 * [Articles](#articles)
 * [Books](#books)
+* [Scientific Papers](#scientific-papers)
 * [Podcasts](#podcasts)
 * [Online courses](#online-courses)
 * [Organizations / Projects](#organizations--projects)
@@ -43,6 +44,15 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839/)
 * [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
 * [Gödel, Escher, Bach An Eternal Golden Braid by D. R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+
+## Scientific Papers
+* [A Collection of Definitions of Intelligence](https://arxiv.org/abs/0706.3639)
+* [Universal Intelligence: A Definition of Machine Intelligence](https://arxiv.org/abs/0712.3329)
+* [A Framework for Searching for General Artificial Intelligence](https://arxiv.org/abs/1611.00685)
+* [The AGI Containment Problem](https://arxiv.org/abs/1604.00545)
+* [A Cyber Science Based Ontology for Artificial General Intelligence Containment](https://arxiv.org/abs/1801.09317)
+* [Self-Regulating Artificial General Intelligence](https://arxiv.org/abs/1711.04309)
+* [Building Safer AGI by introducing Artificial Stupidity](https://arxiv.org/abs/1808.03644)
 
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
