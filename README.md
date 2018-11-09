@@ -29,7 +29,8 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Mapping the Landscape of Human-Level Artificial General Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2322)
 
 ## Instant communication chat channels
-* [Gitter Artificial General Intelligence channel](https://gitter.im/artificial-general-intelligence/Lobby)
+* [Gitter](https://gitter.im/artificial-general-intelligence/Lobby)
+* [Discord](https://discord.gg/6hGWSNA)
 * [##AGI IRC channel on freenode](https://webchat.freenode.net/?channels=%23%23agi)
 
 ## Articles
