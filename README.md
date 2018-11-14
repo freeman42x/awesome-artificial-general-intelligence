@@ -3,13 +3,13 @@
 Artificial general intelligence (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
 
 ## Contents
-
 * [General Introductions](#general-introductions)
 * [Instant communication chat channels](#instant-communication-chat-channels)
 * [Articles](#articles)
 * [Books](#books)
 * [Scientific Papers](#scientific-papers)
 * [Podcasts](#podcasts)
+* [Video Lectures](#video-lectures)
 * [Online courses](#online-courses)
 * [Organizations / Projects](#organizations--projects)
 * [Forums / News](#forums--news)
@@ -17,6 +17,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Competitions](#competitions)
 * [Movies](#movies)
 * [TV Shows](#tv-shows)
+* [Anime](#anime)
 * [Education Plans](#education-plans)
 * [More resources](#more-resources)
 
@@ -69,6 +70,9 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/)
 
+## Video Lectures
+* [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
+
 ## Online courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [Knowledge-Based AI: Cognitive Systems
@@ -88,6 +92,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
   * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
+* [NNAISENSE](https://nnaisense.com/)
 
 ## Forums / News / Social
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
@@ -109,18 +114,26 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [General AI Challenge by GoodAI](https://www.general-ai-challenge.org/)
 
 ## Movies
-
 * [Ex Machina](http://www.imdb.com/title/tt0470752/)
 * [Her](http://www.imdb.com/title/tt1798709/)
 * [I, Robot](http://www.imdb.com/title/tt0343818/)
+* [Tau](https://www.imdb.com/title/tt4357394/)
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
 * [Upgrade](https://www.imdb.com/title/tt6499752/)
 
 ## TV Shows
-
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
+
+## Anime
+* [Chobits](https://myanimelist.net/anime/59/Chobits)
+* [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
+* [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Ghost_in_the_Shell__Stand_Alone_Complex)
+* [Half-Broken Music Box](https://myanimelist.net/anime/9213/Kowarekake_no_Orgel)
+* [Hand Maid May](https://myanimelist.net/anime/318/Hand_Maid_May)
+* [Plastic Memories](https://myanimelist.net/anime/27775/Plastic_Memories)
+* [Time of Eve](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)
 
 ## Education Plans
 * [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~wangp/Writing/AGI-Curriculum.html)
