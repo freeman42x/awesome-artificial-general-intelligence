@@ -93,6 +93,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
 * [NNAISENSE](https://nnaisense.com/)
+* [vicarious](https://www.vicarious.com/) - developing artificial general intelligence for robots
 
 ## Forums / News / Social
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
