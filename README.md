@@ -54,6 +54,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Advances in Artificial General Intelligence: Concepts, Architectures and Algorithms (Frontiers in Artificial Intelligence and Applications) ](https://www.amazon.com/Advances-Artificial-General-Intelligence-Architectures/dp/1586037587)
 * [Theoretical Foundations of Artificial General Intelligence](https://www.amazon.com/Theoretical-Foundations-Artificial-General-Intelligence-ebook/dp/B00HWUWVY4)
 * [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395)
+* [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.co.uk/Master-Algorithm-Ultimate-September-Hardcover/dp/B0168SMEWE/)
 * [Gödel, Escher, Bach An Eternal Golden Braid by D. R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 
 ## Scientific Papers
