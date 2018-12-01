@@ -9,8 +9,8 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Books](#books)
 * [Scientific Papers](#scientific-papers)
 * [Podcasts](#podcasts)
-* [Video Lectures](#video-lectures)
-* [Online courses](#online-courses)
+* [Courses](#courses)
+* [Videos](#videos)
 * [Organizations / Projects](#organizations--projects)
 * [Forums / News](#forums--news)
 * [Experts on Twitter](#experts-on-twitter)
@@ -71,13 +71,14 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/)
 
-## Video Lectures
-* [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
-
-## Online courses
+## Courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
 * [Knowledge-Based AI: Cognitive Systems
 by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+* [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
+
+## Videos
+* [aitube.io](https://aitube.io/categories/agi/)
 
 ## Organizations / Projects
 * [OpenAI](https://openai.com/)
