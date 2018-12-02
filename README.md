@@ -70,6 +70,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/)
+* [Brain Inspired](https://braininspired.co/podcast/)
 
 ## Courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
