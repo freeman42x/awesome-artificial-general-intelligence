@@ -1,6 +1,6 @@
-# Awesome resources about Artificial General Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Artificial General Intelligence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Artificial general intelligence (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
+[Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
 
 ## Contents
 * [General Introductions](#general-introductions)
@@ -12,7 +12,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [Courses](#courses)
 * [Videos](#videos)
 * [Organizations / Projects](#organizations--projects)
-* [Forums / News](#forums--news)
+* [Forums / News / Social](#forums--news--social)
 * [Experts on Twitter](#experts-on-twitter)
 * [Competitions](#competitions)
 * [Movies](#movies)
@@ -51,7 +51,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 * [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/1491518839/)
 * [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.amazon.com/Sentient-Machine-Coming-Artificial-Intelligence/dp/1501144677/)
 * [Artificial General Intelligence (Cognitive Technologies)](https://www.amazon.co.uk/Artificial-General-Intelligence-Cognitive-Technologies/dp/354023733X)
-* [Advances in Artificial General Intelligence: Concepts, Architectures and Algorithms (Frontiers in Artificial Intelligence and Applications) ](https://www.amazon.com/Advances-Artificial-General-Intelligence-Architectures/dp/1586037587)
+* [Advances in Artificial General Intelligence: Concepts, Architectures and Algorithms (Frontiers in Artificial Intelligence and Applications)](https://www.amazon.com/Advances-Artificial-General-Intelligence-Architectures/dp/1586037587)
 * [Theoretical Foundations of Artificial General Intelligence](https://www.amazon.com/Theoretical-Foundations-Artificial-General-Intelligence-ebook/dp/B00HWUWVY4)
 * [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395)
 * [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.co.uk/Master-Algorithm-Ultimate-September-Hardcover/dp/B0168SMEWE/)
@@ -69,7 +69,7 @@ Artificial general intelligence (AGI) is the intelligence of a machine that coul
 
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
-* [Lex Fridman](https://lexfridman.com/ai/)
+* [Lex Fridman](https://lexfridman.com/ai/) - The Artificial Intelligence (AI) podcast hosts accessible, big-picture conversations at MIT and beyond about the nature of intelligence with some of the most interesting people in the world thinking about AI from a variety of perspectives including machine learning, robotics, neuroscience, philosophy, psychology, economics, physics, mathematics, cognitive science, software engineering and more.
 
 ## Courses
 * [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu)
@@ -78,24 +78,24 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [The Society of Mind by Marvin Minsky](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/lecture-1-introduction/)
 
 ## Videos
-* [aitube.io](https://aitube.io/categories/agi/)
+* [aitube.io](https://aitube.io/categories/agi/) - Organizing the Internet’s information on A.I. (Artificial Intelligence) through crowdsourcing! It is an open source project where people can submit videos from the web or upload their own videos.
 
 ## Organizations / Projects
-* [OpenAI](https://openai.com/)
+* [OpenAI](https://openai.com/) - Discovering and enacting the path to safe artificial general intelligence.
 * [Neuralink](https://www.neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
-* [DeepMind](https://deepmind.com/)
-* [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
-* [OpenCog](http://opencog.org/)
+* [DeepMind](https://deepmind.com/) - Solve intelligence. Use it to make the world a better place.
+* [Machine Intelligence Research Institute](https://intelligence.org/research-guide/) - We do foundational mathematical research to ensure smarter-than-human artificial intelligence has a positive impact.
+* [OpenCog](http://opencog.org/) - No challenge today is more important than creating beneficial artificial general intelligence (AGI), with broad capabilities at the human level and ultimately beyond. OpenCog is an open-source software initiative aimed at directly confronting that challenge.
 * [Open-NARS](https://github.com/opennars/opennars) - Open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system.
 * [BasicAI](https://twitter.com/BasicAIResearch) - Mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all.
 * [ProjectAGI](https://agi.io/about/) - Mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community.
 * Numenta - home of the Hierarchical Temporal Memory community:
   * [Website](https://numenta.org/)
   * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
-* [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/)
+* [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/) - Cyc is a revolutionary AI platform with human reasoning, knowledge and logic at enterprise scale.
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
-* [NNAISENSE](https://nnaisense.com/)
-* [vicarious](https://www.vicarious.com/) - developing artificial general intelligence for robots
+* [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
+* [vicarious](https://www.vicarious.com/) - Developing artificial general intelligence for robots.
 
 ## Forums / News / Social
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
