@@ -39,6 +39,7 @@
 * [Positively shaping the development of artificial intelligence](https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/)
 * [Superintelligence - The idea that eats smart people](http://idlewords.com/talks/superintelligence.htm)
 * [The Seven Deadly Sins of Predicting the Future of AI](https://rodneybrooks.com/the-seven-deadly-sins-of-predicting-the-future-of-ai/)
+* [Neuralink and the Brain’s Magical Future](https://waitbutwhy.com/2017/04/neuralink.html)
 
 ## Books
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
@@ -56,6 +57,12 @@
 * [Universal Artificial Intelligence: Sequential Decisions Based On Algorithmic Probability](https://www.amazon.com/Universal-Artificial-Intelligence-Algorithmic-Probability/dp/3540221395)
 * [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.amazon.co.uk/Master-Algorithm-Ultimate-September-Hardcover/dp/B0168SMEWE/)
 * [Gödel, Escher, Bach An Eternal Golden Braid by D. R. Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
+* [Connectionist Symbol Processing](https://www.amazon.com/Connectionist-Processing-Special-Artificial-Intelligence/dp/026258106X)
+* [Engineering General Intelligence, Part 1: A Path to Advanced AGI via Embodied Learning and Cognitive Synergy (Atlantis Thinking Machines)](https://www.amazon.com/dp/9462390266/ref=asc_df_94623902665705352)
+* [The Hidden Pattern: A Patternist Philosophy of Mind](https://www.amazon.com/Hidden-Pattern-Patternist-Philosophy-Mind/dp/1581129890)
+* [AGI Revolution: An Inside View of the Rise of Artificial General Intelligence](https://www.amazon.com/AGI-Revolution-Artificial-General-Intelligence-ebook/dp/B01JLFUUWM)
+* [Real-World Reasoning: Toward Scalable, Uncertain Spatiotemporal, Contextual and Causal Inference (Atlantis Thinking Machines)](https://www.amazon.com/Real-World-Reasoning-Uncertain-Spatiotemporal-Contextual/dp/9491216104)
+* [Building Minds with Patterns](https://www.amazon.com/dp/1980362661)
 
 ## Scientific Papers
 * [A Collection of Definitions of Intelligence](https://arxiv.org/abs/0706.3639)
@@ -66,6 +73,7 @@
 * [Self-Regulating Artificial General Intelligence](https://arxiv.org/abs/1711.04309)
 * [Building Safer AGI by introducing Artificial Stupidity](https://arxiv.org/abs/1808.03644)
 * [Journal of Artificial General Intelligence](https://content.sciendo.com/view/journals/jagi/jagi-overview.xml)
+* [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
 
 ## Podcasts
 * [Concerning AI](https://concerning.ai/)
@@ -96,25 +104,24 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
 * [vicarious](https://www.vicarious.com/) - Developing artificial general intelligence for robots.
+* [BICA Society - Biologically Inspired Cognitive Architectures Society](http://bicasociety.org/)
 
 ## Forums / News / Social
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
 * [Reddit AGI](https://www.reddit.com/r/agi/)
 * [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
 * [Facebook AGI Group](https://www.facebook.com/groups/propBitDev/)
-* [Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
+* [Facebook Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
 * [Facebook Strong Artificial Intelligence Group](https://www.facebook.com/groups/strongartificialintelligence/)
+* [Facebook Cognitive Architectures Group](https://www.facebook.com/CognitiveArchitectures/)
 * [LinkedIn AGI Group](https://www.linkedin.com/groups/1084997/)
 * [Google AGI Group](https://groups.google.com/forum/#!forum/artificial-general-intelligence)
 
-## Experts on Twitter
-* [Max Tegmark @tegmark](https://twitter.com/tegmark)
-* [Future of Humanity Institute @FHIOxford](https://twitter.com/FHIOxford)
-* [Demis Hassabis @demishassabis](https://twitter.com/demishassabis)
-* [Lex Fridman @lexfridman](https://twitter.com/lexfridman)
-
 ## Competitions
 * [General AI Challenge by GoodAI](https://www.general-ai-challenge.org/)
+
+## Conferences
+* [Conference series on Artificial General Intelligence](http://agi-conference.org/)
 
 ## Movies
 * [Ex Machina](http://www.imdb.com/title/tt0470752/)
@@ -124,6 +131,15 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [The Terminator](http://www.imdb.com/title/tt0088247/)
 * [Transcendence](http://www.imdb.com/title/tt2209764/)
 * [Upgrade](https://www.imdb.com/title/tt6499752/)
+* [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)
+* [2001 Space Odyssey](https://www.imdb.com/title/tt0062622/)
+* [Short Circuit](https://www.imdb.com/title/tt0091949/)
+* [Chappie](https://www.imdb.com/title/tt1823672/)
+* [The Machine](https://www.imdb.com/title/tt2317225/)
+* [Colossus: The Forbin Project](https://www.imdb.com/title/tt0064177/)
+* [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
+* [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
+* [Virus](https://www.imdb.com/title/tt0120458/)
 
 ## TV Shows
 * [Humans](https://www.imdb.com/title/tt4122068)
