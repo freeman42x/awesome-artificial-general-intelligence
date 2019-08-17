@@ -140,6 +140,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
 * [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
 * [Virus](https://www.imdb.com/title/tt0120458/)
+* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
 
 ## TV Shows
 * [Humans](https://www.imdb.com/title/tt4122068)
