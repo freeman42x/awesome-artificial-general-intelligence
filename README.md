@@ -63,6 +63,7 @@
 * [AGI Revolution: An Inside View of the Rise of Artificial General Intelligence](https://www.amazon.com/AGI-Revolution-Artificial-General-Intelligence-ebook/dp/B01JLFUUWM)
 * [Real-World Reasoning: Toward Scalable, Uncertain Spatiotemporal, Contextual and Causal Inference (Atlantis Thinking Machines)](https://www.amazon.com/Real-World-Reasoning-Uncertain-Spatiotemporal-Contextual/dp/9491216104)
 * [Building Minds with Patterns](https://www.amazon.com/dp/1980362661)
+* [Non-Axiomatic Logic: A Model of Intelligent Reasoning](https://www.worldscientific.com/worldscibooks/10.1142/8665)
 
 ## Scientific Papers
 * [A Collection of Definitions of Intelligence](https://arxiv.org/abs/0706.3639)
@@ -113,7 +114,18 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Facebook AGI Group](https://www.facebook.com/groups/propBitDev/)
 * [Facebook Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
 * [Facebook Strong Artificial Intelligence Group](https://www.facebook.com/groups/strongartificialintelligence/)
-* [Facebook Cognitive Architectures Group](https://www.facebook.com/CognitiveArchitectures/)
+* [Facebook Cognitive Architecture Group](https://www.facebook.com/groups/CognitiveArchitecture/)
+* [Facebook 2nd Cognitive Architecture Group](https://www.facebook.com/groups/742342316139586/)
+* [Facebook AGI-Theory Group](https://www.facebook.com/groups/agitheory/)
+* [Facebook Real AGI Group](https://www.facebook.com/groups/RealAGI/)
+* [Facebook Artificial Cognition Group](https://www.facebook.com/groups/722892624534381/)
+* [Facebook Coding Artificial Minds Group](https://www.facebook.com/groups/CodingArtificialMinds/)
+* [Facebook Strong AI - No BS Group](https://www.facebook.com/groups/StrongAInoBS/)
+* [Facebook Artificial General Intelligence Group](https://www.facebook.com/groups/1310787108966565/
+* [Facebook The Future of Artificial Intelligence Group](https://www.facebook.com/groups/futurofai/)
+* [Facebook Active Inference Study Group](https://www.facebook.com/groups/1517633221685192/)
+* [Facebook Oscillating Networks for AI Group](https://www.facebook.com/groups/2120059834926785/)
+* [Facebook Machine Reasoning Group](https://www.facebook.com/groups/DeepLearn/)
 * [LinkedIn AGI Group](https://www.linkedin.com/groups/1084997/)
 * [Google AGI Group](https://groups.google.com/forum/#!forum/artificial-general-intelligence)
 
@@ -140,11 +152,11 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
 * [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
 * [Virus](https://www.imdb.com/title/tt0120458/)
-* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
 
 ## TV Shows
 * [Humans](https://www.imdb.com/title/tt4122068)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
+* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
 
 ## Anime
 * [Chobits](https://myanimelist.net/anime/59/Chobits)
