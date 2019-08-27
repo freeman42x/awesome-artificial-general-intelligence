@@ -68,7 +68,7 @@
 * [AGI Revolution: An Inside View of the Rise of Artificial General Intelligence](https://www.amazon.com/AGI-Revolution-Artificial-General-Intelligence-ebook/dp/B01JLFUUWM)
 * [Real-World Reasoning: Toward Scalable, Uncertain Spatiotemporal, Contextual and Causal Inference (Atlantis Thinking Machines)](https://www.amazon.com/Real-World-Reasoning-Uncertain-Spatiotemporal-Contextual/dp/9491216104)
 * [Building Minds with Patterns](https://www.amazon.com/dp/1980362661)
-* [Non-Axiomatic Logic: A Model of Intelligent Reasoning](https://www.worldscientific.com/worldscibooks/10.1142/8665)
+* [Non-Axiomatic Logic: A Model of Intelligent Reasoning](https://www.amazon.com/Non-Axiomatic-Logic-Model-Intelligent-Reasoning-ebook/dp/B00DBLZGEU)
 
 ## Scientific Papers
 
@@ -132,7 +132,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Facebook Artificial Cognition Group](https://www.facebook.com/groups/722892624534381/)
 * [Facebook Coding Artificial Minds Group](https://www.facebook.com/groups/CodingArtificialMinds/)
 * [Facebook Strong AI - No BS Group](https://www.facebook.com/groups/StrongAInoBS/)
-* [Facebook Artificial General Intelligence Group](https://www.facebook.com/groups/1310787108966565/
+* [Facebook Artificial General Intelligence Group](https://www.facebook.com/groups/1310787108966565/)
 * [Facebook The Future of Artificial Intelligence Group](https://www.facebook.com/groups/futurofai/)
 * [Facebook Active Inference Study Group](https://www.facebook.com/groups/1517633221685192/)
 * [Facebook Oscillating Networks for AI Group](https://www.facebook.com/groups/2120059834926785/)
