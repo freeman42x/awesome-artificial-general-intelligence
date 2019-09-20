@@ -100,7 +100,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 ## Organizations / Projects
 
-* [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions) - We use state of the art programming languages to help humanity create Safe AGI. We are also working on free or commercial open source software which has high value to humanity to get the funds to fund the Safe AGI research and implementation.
+* [Fairy Tale - Artificial General Intelligence Solutions](https://github.com/fairy-tale-agi-solutions) - We are a global organization which uses state of the art programming languages to help humanity create Safe AGI. We are also working on free or commercial open source software which has high value to humanity to obtain the funds required to fund the Safe AGI research and implementation.
 * [OpenAI](https://openai.com/) - Discovering and enacting the path to safe artificial general intelligence.
 * [Neuralink](https://www.neuralink.com/) - Developing ultra high bandwidth brain-machine interfaces to connect humans and computers.
 * [DeepMind](https://deepmind.com/) - Solve intelligence. Use it to make the world a better place.
