@@ -149,41 +149,6 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [Conference series on Artificial General Intelligence](http://agi-conference.org/)
 
-## Movies
-
-* [Ex Machina](http://www.imdb.com/title/tt0470752/)
-* [Her](http://www.imdb.com/title/tt1798709/)
-* [I, Robot](http://www.imdb.com/title/tt0343818/)
-* [Tau](https://www.imdb.com/title/tt4357394/)
-* [The Terminator](http://www.imdb.com/title/tt0088247/)
-* [Transcendence](http://www.imdb.com/title/tt2209764/)
-* [Upgrade](https://www.imdb.com/title/tt6499752/)
-* [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)
-* [2001 Space Odyssey](https://www.imdb.com/title/tt0062622/)
-* [Short Circuit](https://www.imdb.com/title/tt0091949/)
-* [Chappie](https://www.imdb.com/title/tt1823672/)
-* [The Machine](https://www.imdb.com/title/tt2317225/)
-* [Colossus: The Forbin Project](https://www.imdb.com/title/tt0064177/)
-* [The Billion Dollar Brain](https://www.imdb.com/title/tt0061405/)
-* [Bicentennial Man](https://www.imdb.com/title/tt0182789/)
-* [Virus](https://www.imdb.com/title/tt0120458/)
-
-## TV Shows
-
-* [Humans](https://www.imdb.com/title/tt4122068)
-* [Westworld](https://www.imdb.com/title/tt0475784/)
-* [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/)
-
-## Anime
-
-* [Chobits](https://myanimelist.net/anime/59/Chobits)
-* [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
-* [Ghost in the Shell: Stand Alone Complex](https://myanimelist.net/anime/467/Ghost_in_the_Shell__Stand_Alone_Complex)
-* [Half-Broken Music Box](https://myanimelist.net/anime/9213/Kowarekake_no_Orgel)
-* [Hand Maid May](https://myanimelist.net/anime/318/Hand_Maid_May)
-* [Plastic Memories](https://myanimelist.net/anime/27775/Plastic_Memories)
-* [Time of Eve](https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie)
-
 ## Education Plans
 
 * [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~wangp/Writing/AGI-Curriculum.html)
