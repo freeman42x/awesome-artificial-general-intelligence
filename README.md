@@ -81,11 +81,13 @@
 * [Building Safer AGI by introducing Artificial Stupidity](https://arxiv.org/abs/1808.03644)
 * [Journal of Artificial General Intelligence](https://content.sciendo.com/view/journals/jagi/jagi-overview.xml)
 * [The superinteligent will: Motivation and instrumental rationality in advanced artificial agents](https://nickbostrom.com/superintelligentwill.pdf)
+* [A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex](https://www.frontiersin.org/articles/10.3389/fncir.2018.00121/full)
 
 ## Podcasts
 
 * [Concerning AI](https://concerning.ai/)
 * [Lex Fridman](https://lexfridman.com/ai/) - The Artificial Intelligence (AI) podcast hosts accessible, big-picture conversations at MIT and beyond about the nature of intelligence with some of the most interesting people in the world thinking about AI from a variety of perspectives including machine learning, robotics, neuroscience, philosophy, psychology, economics, physics, mathematics, cognitive science, software engineering and more.
+* [Numenta On Intelligence](https://numenta.com/resources/numenta-on-intelligence-podcast/)
 
 ## Courses
 
@@ -97,6 +99,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 ## Videos
 
 * [aitube.io](https://aitube.io/categories/agi/) - Organizing the Internet’s information on A.I. (Artificial Intelligence) through crowdsourcing! It is an open source project where people can submit videos from the web or upload their own videos.
+* [Numenta YouTube](https://www.youtube.com/NumentaTheory) - Live research videos and archived tutorials.
 
 ## Organizations / Projects
 
@@ -108,9 +111,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Open-NARS](https://github.com/opennars/opennars) - Open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system.
 * [BasicAI](https://twitter.com/BasicAIResearch) - Mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all.
 * [ProjectAGI](https://agi.io/about/) - Mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community.
-* Numenta - home of the Hierarchical Temporal Memory community:
-  * [Website](https://numenta.org/)
-  * [Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.](https://github.com/numenta/nupic)
+* [Numenta](https://numenta.com/) - Private company founded by Jeff Hawkins to understand intellignece in the brain and implement discovered priniciples in software.
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/) - Cyc is a revolutionary AI platform with human reasoning, knowledge and logic at enterprise scale.
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
@@ -121,6 +122,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [AI StackExchange AGI and Strong AI tags](https://ai.stackexchange.com/questions/tagged/agi+or+strong-ai)
 * [Reddit AGI](https://www.reddit.com/r/agi/)
+* [HTM Forum](https://discourse.numenta.org/) (Numenta community forum)
 * [Reddit Control Problem](https://www.reddit.com/r/ControlProblem/)
 * [Facebook AGI Group](https://www.facebook.com/groups/propBitDev/)
 * [Facebook Model-Free Methods for Artificial General Intelligence (MFM-AGI)](https://www.facebook.com/groups/model.free.methods.for.agi/)
