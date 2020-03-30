@@ -185,7 +185,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 ## Education Plans
 
-* [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~wangp/Writing/AGI-Curriculum.html)
+* [Suggested Education for Future AGI Researchers](https://cis.temple.edu/~pwang/AGI-Curriculum.html)
 * [AGI Curriculum](http://goertzel.org/agi-curriculum/)
 * [Marcus' AI Recommendation Page](http://www.hutter1.net/ai/introref.htm)
 
