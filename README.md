@@ -111,7 +111,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Open-NARS](https://github.com/opennars/opennars) - Open-source version of NARS, a general-purpose AI system, designed in the framework of a reasoning system.
 * [BasicAI](https://twitter.com/BasicAIResearch) - Mission is to do basic research aimed at human-level AI, and to ensure that human-level AI is ultimately beneficial to all.
 * [ProjectAGI](https://agi.io/about/) - Mission is to develop the first true AGI. We approach this by combining principles of biological cognition and machine learning to devise and empirically test novel algorithms for general intelligence. We are a distributed community.
-* [Numenta](https://numenta.com/) - Private company founded by Jeff Hawkins to understand intelligence in the brain and implement discovered priniciples in software.
+* [Numenta](https://numenta.com/) - Private company having the goal to understand intelligence in the brain and implement discovered principles in software.
 * [Cycorp - ResearchCyc](https://www.cyc.com/researchcyc/) - Cyc is a revolutionary AI platform with human reasoning, knowledge and logic at enterprise scale.
 * [Constructivist AGI](http://www.ru.is/faculty/thorisson/)
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
