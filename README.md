@@ -33,8 +33,7 @@
 
 ## Instant communication chat channels
 
-* [Gitter](https://gitter.im/artificial-general-intelligence/Lobby)
-* [Discord](https://discord.gg/6hGWSNA)
+* [Discord - Human Level Artificial Intelligence](https://discord.gg/6hGWSNA)
 * [##AGI IRC channel on freenode](https://webchat.freenode.net/?channels=%23%23agi)
 
 ## Articles
