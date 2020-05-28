@@ -19,7 +19,6 @@
 
 ## Contributors
 [![Opencollective](https://img.shields.io/badge/Official.Page-OpenCollective-blue)](https://opencollective.com/fairy-tale-agi-solutions/)
-
 ![Opencollective-backers](https://img.shields.io/opencollective/backers/fairy-tale-agi-solutions)
 ![Opencollective-sponsors](https://img.shields.io/opencollective/sponsors/fairy-tale-agi-solutions)
 
