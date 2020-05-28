@@ -7,13 +7,14 @@
 [![Twitch](https://shields.cdn.bka.li/twitch/status/freeman42x?color=blueviolet&logoColor=blueviolet&style=flatsquare)](https://www.twitch.tv/freeman42x)
 [![Blog](https://img.shields.io/badge/Blog-RazvanFlaviusPanda-red?color=orange)](https://razvan-flavius-panda.github.io/blog/)
 
-## Progress Tracking
+### Progress Tracking
 
 ![Commit-Activity](https://img.shields.io/github/commit-activity/m/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?label=Last%20Month%20commit%20activity&style=for-the-badge)
 
-[![Open Issues](https://img.shields.io/github/issues-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?style=flatsquare&label=Open%20Issues)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence)
+[![Open Issues](https://img.shields.io/github/issues-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?style=flatsquare&label=Open%20Issues&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/projects/1)
 [![Help Wanted](https://img.shields.io/github/issues/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/help%20wanted.svg?color=Red)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
-[![Closed Issues](https://img.shields.io/github/issues-closed-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?color=green&label=Closed%20Issues)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence)
+[![Bounty](https://img.shields.io/github/issues/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/bounty.svg?color=blueviolet)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aopen+is%3Aissue+label%3A"bounty") 
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?color=green&label=Closed%20Issues)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/projects/1)
 
 ## Contributors
 [![Opencollective](https://img.shields.io/badge/Official.Page-OpenCollective-blue)](https://opencollective.com/fairy-tale-agi-solutions/)
