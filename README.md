@@ -7,7 +7,6 @@
 [![Twitch](https://img.shields.io/badge/TwitchTV-freeman42x-b?color=blueviolet)](https://www.twitch.tv/freeman42x/)
 [![](https://shields.cdn.bka.li/twitch/status/freeman42x?color=blueviolet&logoColor=blueviolet&style=flatsquare&label)](https://www.twitch.tv/freeman42x)
 
-
 ### Progress Tracking
 
 [![Commit-Activity](https://img.shields.io/github/commit-activity/m/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?label=Last%20Month%20commit%20activity&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/haskell-editor-setup/graphs/contributors)
