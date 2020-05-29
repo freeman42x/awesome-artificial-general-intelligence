@@ -10,7 +10,7 @@
 
 ### Progress Tracking
 
-![Commit-Activity](https://img.shields.io/github/commit-activity/m/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?label=Last%20Month%20commit%20activity&style=for-the-badge)
+[![Commit-Activity](https://img.shields.io/github/commit-activity/m/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?label=Last%20Month%20commit%20activity&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/haskell-editor-setup/graphs/contributors)
 
 [![Project Kanban Board](https://img.shields.io/github/issues-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?style=flatsquare&label=Project%20Kanban%20Board&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/projects/1)
 [![Help Wanted](https://img.shields.io/github/issues/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/help%20wanted.svg?color=Red)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
