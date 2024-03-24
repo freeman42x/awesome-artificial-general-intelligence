@@ -1,27 +1,6 @@
 # Awesome Artificial General Intelligence 
 
-[Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
-
-## Community Links
-[![Discord](https://img.shields.io/discord/510467626246471690.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9J496Nn)
-
-### Progress Tracking
-
-[![Commit-Activity](https://img.shields.io/github/commit-activity/m/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?label=Last%20Month%20commit%20activity&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/haskell-editor-setup/graphs/contributors)
-
-[![Project Kanban Board](https://img.shields.io/github/issues-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?style=flatsquare&label=Project%20Kanban%20Board&style=for-the-badge)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/projects/1)
-[![Help Wanted](https://img.shields.io/github/issues/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/help%20wanted.svg?color=Red)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
-[![Bounty](https://img.shields.io/github/issues/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/bounty.svg?color=blueviolet)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aopen+is%3Aissue+label%3A"bounty") 
-[![Closed Issues](https://img.shields.io/github/issues-closed-raw/fairy-tale-agi-solutions/awesome-artificial-general-intelligence?color=green&label=Closed%20Issues)](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/issues?q=is%3Aclosed+is%3Aissue)
-
-## Contributors
-[![Opencollective](https://img.shields.io/badge/Official.Page-OpenCollective-blue)](https://opencollective.com/fairy-tale-agi-solutions/)
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://opencollective.com/fairy-tale-agi-solutions/">
-
-<img src="https://opencollective.com/fairy-tale-agi-solutions/tiers/backers.svg?avatarHeight=36">
-</a>
+[Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI) is the intelligence of a machine that could successfully perform any intellectual task that a human being can. It is a primary goal of some artificial intelligence research and a common topic in science fiction and future studies. Artificial general intelligence is also referred to as "strong AI", "full AI" or as the ability of a machine to perform "general intelligent action".
 
 ## Contents
 
