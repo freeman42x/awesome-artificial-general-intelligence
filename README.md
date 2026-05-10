@@ -194,6 +194,16 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [AGI Society](http://www.agi-society.org/resources/)
 * [Linas Vepstas](https://linas.org/agi.html)
+* [Future of Life Institute - AI Safety Resources](https://futureoflife.org/ai-safety-resources/)
+* [Center for AI Safety](https://www.safe.ai/)
+* [AI Alignment Forum](https://www.alignmentforum.org/)
+* [LessWrong - AI Alignment](https://www.lesswrong.com/tag/ai-alignment)
+* [Redwood Research](https://www.redwoodresearch.org/)
+* [Epoch AI](https://epoch.ai/)
+* [Metaculus - Artificial Intelligence forecasts](https://www.metaculus.com/questions/?order_by=-activity&search=artificial%20intelligence)
+* [Stanford Encyclopedia of Philosophy - Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
+* [DeepMind Safety Research](https://deepmind.google/discover/blog/?category=safety)
+* [Machine Intelligence Research Institute publications](https://intelligence.org/research/)
 
 ## Contribute
 
