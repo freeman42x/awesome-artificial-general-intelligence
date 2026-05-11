@@ -30,6 +30,7 @@
 * [Artificial General Intelligence: Concept, State of the Art and Future Prospects, by Ben Goertzel](https://content.sciendo.com/view/journals/jagi/5/1/article-p1.xml)
 * [A gentle introduction to AGi by Pei Wang](https://sites.google.com/site/narswang/home/agi-introduction)
 * [Mapping the Landscape of Human-Level Artificial General Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2322)
+* [What is Machine Learning? Definition, Types, and Easy Examples](https://www.scaler.com/blog/machine-learning/)
 
 ## Instant communication chat channels
 
