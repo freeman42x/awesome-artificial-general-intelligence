@@ -194,16 +194,6 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [AGI Society](http://www.agi-society.org/resources/)
 * [Linas Vepstas](https://linas.org/agi.html)
-* [Center for Human-Compatible AI](https://humancompatible.ai/)
-* [Future of Life Institute - Resources](https://futureoflife.org/resource/)
-* [Center for AI Safety](https://www.safe.ai/)
-* [AI Alignment Forum](https://www.alignmentforum.org/)
-* [LessWrong - AI Alignment](https://www.lesswrong.com/tag/ai-alignment)
-* [Epoch AI](https://epoch.ai/)
-* [METR](https://metr.org/)
-* [Redwood Research](https://www.redwoodresearch.org/)
-* [Apollo Research](https://www.apolloresearch.ai/)
-* [FAR.AI](https://far.ai/)
 
 ## Contribute
 
