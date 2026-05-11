@@ -204,6 +204,11 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [Stanford Encyclopedia of Philosophy - Artificial Intelligence](https://plato.stanford.edu/entries/artificial-intelligence/)
 * [DeepMind Safety Research](https://deepmind.google/discover/blog/?category=safety)
 * [Machine Intelligence Research Institute publications](https://intelligence.org/research/)
+* [Center for Human-Compatible AI](https://humancompatible.ai/)
+* [Future of Life Institute - Resources](https://futureoflife.org/resource/)
+* [METR](https://metr.org/)
+* [Apollo Research](https://www.apolloresearch.ai/)
+* [FAR.AI](https://far.ai/)
 
 ## Contribute
 
