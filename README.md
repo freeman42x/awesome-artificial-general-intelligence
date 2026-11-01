@@ -116,6 +116,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 * [NNAISENSE](https://nnaisense.com/) - Leverages the 25-year proven track record of one of the leading research teams in AI to build large-scale neural network solutions for superhuman perception and intelligent automation, with the ultimate goal of marketing general-purpose Artificial Intelligences.
 * [vicarious](https://www.vicarious.com/) - Developing artificial general intelligence for robots.
 * [BICA Society - Biologically Inspired Cognitive Architectures Society](http://bicasociety.org/)
+* [Cadence](https://github.com/muellerberndt/cadence) - Brain-inspired architecture and Python library for agents that learn from live experience while they act, using local plasticity instead of backpropagation, with built-in memory. [Paper](https://philpapers.org/rec/MUECAP-2)
 
 ## Forums / News / Social
 
